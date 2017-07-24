@@ -1,0 +1,10 @@
+## Ignore everything in the root directory
+/*
+
+## Whitelist
+# README files
+!README
+!README.*
+
+# ZSH_CUSTOM directory
+!/zsh.d
