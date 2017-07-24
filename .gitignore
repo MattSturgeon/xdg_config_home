@@ -8,3 +8,6 @@
 
 # ZSH_CUSTOM directory
 !/zsh.d
+
+# Git config directory
+!/git
