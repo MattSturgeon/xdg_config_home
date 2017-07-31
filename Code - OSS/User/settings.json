@@ -1,0 +1,16 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "terminal.external.linuxExec": "tilix",
+    "terminal.integrated.fontFamily": "Droid Sans Mono Dotted for Powerline",
+    "terminal.integrated.fontLigatures": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.setLocaleVariables": true,
+    "workbench.colorTheme": "Solarized Dark",
+    "window.menuBarVisibility": "toggle",
+    "window.zoomLevel": 1,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.statusBar.visible": true,
+    "markdown.preview.breaks": true,
+    "markdown.enableExperimentalExtensionApi": true,
+    "vim.disableAnnoyingNeovimMessage": true
+}

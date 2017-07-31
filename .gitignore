@@ -11,3 +11,10 @@
 
 # Git config directory
 !/git
+
+# VSCode config
+!/Code - OSS
+/Code - OSS/*
+!/Code - OSS/User
+/Code - OSS/User/*
+!/Code - OSS/User/settings.json
