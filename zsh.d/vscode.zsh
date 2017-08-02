@@ -2,5 +2,5 @@
 export VSCODE_NONFREE=1
 
 # Add an alias for it too
-which visual-studio-code &> /dev/null &&
+which visual-studio-code-oss &> /dev/null &&
 alias vscode='visual-studio-code-oss'
