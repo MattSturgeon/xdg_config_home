@@ -12,5 +12,7 @@
     "workbench.statusBar.visible": true,
     "markdown.preview.breaks": true,
     "markdown.enableExperimentalExtensionApi": true,
-    "vim.disableAnnoyingNeovimMessage": true
+    "vim.disableAnnoyingNeovimMessage": true,
+    "editor.renderWhitespace": "all",
+    "telemetry.enableTelemetry": false
 }
