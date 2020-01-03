@@ -6,8 +6,8 @@
 !README
 !README.*
 
-# ZSH_CUSTOM directory
-!/zsh.d
+# ZDOTDIR
+!/zsh
 
 # Git config directory
 !/git
