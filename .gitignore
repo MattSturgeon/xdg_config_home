@@ -12,6 +12,9 @@
 # Git config directory
 !/git
 
+# NPM config (for XDG)
+!/npm
+
 # VSCode config
 !/Code
 /Code/*
