@@ -9,9 +9,6 @@
 # ZDOTDIR
 !/zsh
 
-# Git config directory
-!/git
-
 # NPM config (for XDG)
 !/npm
 
