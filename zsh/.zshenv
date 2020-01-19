@@ -20,4 +20,9 @@ if [[ $commands[npm] ]]; then
     export NPM_CONFIG_USERCONFIG=$XDG_CONFIG_HOME/npm/npmrc
 fi
 
+if [[ $commands[vim] ]]; then
+    # Force XDG spec
+    export VIMINIT='let $MYVIMRC="$XDG_CONFIG_HOME/vim/vimrc" | source $MYVIMRC'
+fi
+
 export _Z_DATA="$XDG_DATA_HOME/z"

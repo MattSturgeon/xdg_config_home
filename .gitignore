@@ -15,6 +15,9 @@
 # NPM config (for XDG)
 !/npm
 
+# vim config
+!/vim
+
 # VSCode config
 !/Code
 /Code/*
