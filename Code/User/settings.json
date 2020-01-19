@@ -5,7 +5,7 @@
     "terminal.integrated.fontLigatures": true,
     "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.setLocaleVariables": true,
-    "workbench.colorTheme": "Solarized Dark",
+    "workbench.colorTheme": "Solarized Dark+",
     "window.menuBarVisibility": "toggle",
     "window.zoomLevel": 1,
     "workbench.startupEditor": "newUntitledFile",
@@ -14,5 +14,21 @@
     "markdown.enableExperimentalExtensionApi": true,
     "vim.disableAnnoyingNeovimMessage": true,
     "editor.renderWhitespace": "all",
-    "telemetry.enableTelemetry": false
+    "telemetry.enableTelemetry": false,
+    "gitlens.advanced.messages": {
+        "suppressResultsExplorerNotice": true,
+        "suppressShowKeyBindingsNotice": true
+    },
+    "git.autofetch": true,
+    "npm.enableScriptExplorer": true,
+    "gitlens.historyExplorer.enabled": true,
+    "C_Cpp.updateChannel": "Insiders",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
 }
